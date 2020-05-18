@@ -316,7 +316,7 @@
       </div>
       <header class="pattern-header ">
         <h1 class="entry-title">
-        软件宝库</h1>
+        软件+网站宝库</h1>
       </header>
     </div>
   
@@ -463,39 +463,6 @@
 
       <!-- .entry-content -->
       
-<div id="vcomments"></div>
-<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
-<script>
-    new Valine({
-        el: '#vcomments',
-        appId: "65XP2JcaiUSP9lCAGSkGk1vl-gzGzoHsz",
-        appKey: "rEmgBE9RtOiHNsEHXFkFEzpG",
-        path: window.location.pathname,
-        notify: false,
-        verify: true,
-        avatar: 'monsterid',//小怪物头像
-        placeholder: "你是我一生只会遇见一次的惊喜 ..."  
-  });
-  document.body.addEventListener('click', function(e) {
-    if (e.target.classList.contains('vsubmit')) {
-        const email = document.querySelector('input[type=email]');
-        const nick = document.querySelector('input[name=nick]');
-        const reg = /^[A-Za-z0-9\u4e00-\u9fa5]+@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+$/;
-        if (!email.value || !nick.value || !reg.test(email.value)) {
-            const str = `<div class="valert txt-center"><div class="vtext">请填写正确的昵称和邮箱！</div></div>`;
-            const vmark = document.querySelector('.vmark');
-            vmark.innerHTML = str;
-            vmark.style.display = 'block';
-
-            setTimeout(function() {
-                vmark.style.display = 'none';
-                vmark.innerHTML = '';
-            }, 2500);
-        }
-      }
-    });
-</script>
-
 
       <div class="single-reward">
         <div class="reward-open">赏
