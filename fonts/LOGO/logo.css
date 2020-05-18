@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "kitty原始猫咪中文智能手机字体";
+    src: url("kitty原始猫咪中文智能手机字体.eot"); /* IE9 */
+    src: url("kitty原始猫咪中文智能手机字体.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("kitty原始猫咪中文智能手机字体.woff") format("woff"), /* chrome、firefox */
+    url("kitty原始猫咪中文智能手机字体.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("kitty原始猫咪中文智能手机字体.svg#kitty原始猫咪中文智能手机字体") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
