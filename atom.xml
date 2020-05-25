@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-05-16T06:49:47.568Z</updated>
+  <updated>2020-05-25T14:39:04.356Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,55 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>利用Cloudflare Workers免费搭建个人导航网站</title>
+    <link href="/posts/5f0a.html"/>
+    <id>/posts/5f0a.html</id>
+    <published>1990-06-22T15:00:04.000Z</published>
+    <updated>2020-05-25T14:39:04.356Z</updated>
+    
+    <summary type="html">
+    
+      Cloudflare Workers
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="教程" scheme="/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为Cloudflare Workers设置域名访问</title>
+    <link href="/posts/4d.html"/>
+    <id>/posts/4d.html</id>
+    <published>1990-06-22T15:00:03.000Z</published>
+    <updated>2020-05-25T13:41:55.487Z</updated>
+    
+    <summary type="html">
+    
+      Cloudflare Workers
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="教程" scheme="/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一波ESP8266的瞎操作(关于Deauth攻击和WiFi钓鱼)</title>
     <link href="/posts/dd49.html"/>
     <id>/posts/dd49.html</id>
     <published>1990-06-22T15:00:02.000Z</published>
-    <updated>2020-05-16T06:49:47.568Z</updated>
+    <updated>2020-05-20T07:14:19.222Z</updated>
     
     <summary type="html">
     
@@ -43,7 +87,7 @@
     <link href="/posts/c0d5.html"/>
     <id>/posts/c0d5.html</id>
     <published>1990-06-22T15:00:01.000Z</published>
-    <updated>2020-05-16T06:51:06.855Z</updated>
+    <updated>2020-05-20T07:14:57.686Z</updated>
     
     <summary type="html">
     
