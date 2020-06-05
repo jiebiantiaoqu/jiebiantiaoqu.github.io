@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-06-05T15:19:43.694Z</updated>
+  <updated>2020-06-05T15:49:39.705Z</updated>
   <id>/</id>
   
   <author>
@@ -21,16 +21,24 @@
     <link href="/posts/36eb.html"/>
     <id>/posts/36eb.html</id>
     <published>1990-06-22T15:00:06.000Z</published>
-    <updated>2020-06-05T15:19:43.694Z</updated>
+    <updated>2020-06-05T15:49:39.705Z</updated>
     
     <summary type="html">
     
-      office、word、Excel、PPT
+      
+      
+        
+        
+          &lt;h1 id=&quot;秋叶office完整版&quot;&gt;&lt;a href=&quot;#秋叶office完整版&quot; class=&quot;headerlink&quot; title=&quot;秋叶office完整版&quot;&gt;&lt;/a&gt;秋叶office完整版&lt;/h1&gt;&lt;h2 id=&quot;Word&quot;&gt;&lt;a href=&quot;#Word&quot;
+        
+      
     
     </summary>
     
       <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
+    
+      <category term="技术" scheme="/tags/%E6%8A%80%E6%9C%AF/"/>
     
       <category term="office" scheme="/tags/office/"/>
     
@@ -47,18 +55,29 @@
     <link href="/posts/452d.html"/>
     <id>/posts/452d.html</id>
     <published>1990-06-22T15:00:05.000Z</published>
-    <updated>2020-06-05T11:06:57.042Z</updated>
+    <updated>2020-06-05T15:50:08.233Z</updated>
     
     <summary type="html">
     
-      我是创作人
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;最近看《我是创作人》感觉不错就把歌给扒下来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;2020-04-16期&quot;&gt;&lt;a href=&quot;#2020-04-16期&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
       <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
     
     
-      <category term="随想" scheme="/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="歌曲" scheme="/tags/%E6%AD%8C%E6%9B%B2/"/>
+    
+      <category term="我是创作人" scheme="/tags/%E6%88%91%E6%98%AF%E5%88%9B%E4%BD%9C%E4%BA%BA/"/>
     
   </entry>
   
@@ -67,11 +86,18 @@
     <link href="/posts/5f0a.html"/>
     <id>/posts/5f0a.html</id>
     <published>1990-06-22T15:00:04.000Z</published>
-    <updated>2020-05-25T14:39:04.356Z</updated>
+    <updated>2020-06-05T15:49:20.362Z</updated>
     
     <summary type="html">
     
-      Cloudflare Workers
+      
+      
+        
+        
+          &lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;CloudFlare账号：&lt;a href=&quot;https://www.cloudflare.com/&quot;
+        
+      
     
     </summary>
     
@@ -81,6 +107,8 @@
       <category term="技术" scheme="/tags/%E6%8A%80%E6%9C%AF/"/>
     
       <category term="教程" scheme="/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Cloudflare Workers" scheme="/tags/Cloudflare-Workers/"/>
     
   </entry>
   
@@ -89,11 +117,18 @@
     <link href="/posts/4d.html"/>
     <id>/posts/4d.html</id>
     <published>1990-06-22T15:00:03.000Z</published>
-    <updated>2020-05-25T13:41:55.487Z</updated>
+    <updated>2020-06-05T15:48:30.546Z</updated>
     
     <summary type="html">
     
-      Cloudflare Workers
+      
+      
+        
+        
+          &lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;CloudFlare账号：&lt;a href=&quot;https://www.cloudflare.com/&quot;
+        
+      
     
     </summary>
     
@@ -104,6 +139,8 @@
     
       <category term="教程" scheme="/tags/%E6%95%99%E7%A8%8B/"/>
     
+      <category term="Cloudflare Workers" scheme="/tags/Cloudflare-Workers/"/>
+    
   </entry>
   
   <entry>
@@ -111,7 +148,7 @@
     <link href="/posts/dd49.html"/>
     <id>/posts/dd49.html</id>
     <published>1990-06-22T15:00:02.000Z</published>
-    <updated>2020-05-20T07:14:19.222Z</updated>
+    <updated>2020-06-05T15:51:32.722Z</updated>
     
     <summary type="html">
     
@@ -126,6 +163,8 @@
     
       <category term="教程" scheme="/tags/%E6%95%99%E7%A8%8B/"/>
     
+      <category term="esp8266" scheme="/tags/esp8266/"/>
+    
   </entry>
   
   <entry>
@@ -133,11 +172,17 @@
     <link href="/posts/c0d5.html"/>
     <id>/posts/c0d5.html</id>
     <published>1990-06-22T15:00:01.000Z</published>
-    <updated>2020-05-20T07:14:57.686Z</updated>
+    <updated>2020-06-05T15:50:57.921Z</updated>
     
     <summary type="html">
     
-      WPS2019专业版v11.8.6.8810自动激活软件
+      
+      
+        
+        
+          &lt;h2 id=&quot;WPS2019专业版&quot;&gt;&lt;a href=&quot;#WPS2019专业版&quot; class=&quot;headerlink&quot; title=&quot;WPS2019专业版&quot;&gt;&lt;/a&gt;WPS2019专业版&lt;/h2&gt;&lt;p&gt;&lt;img
+        
+      
     
     </summary>
     
@@ -145,6 +190,8 @@
     
     
       <category term="软件" scheme="/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="wps" scheme="/tags/wps/"/>
     
   </entry>
   
