@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-06-05T11:06:57.042Z</updated>
+  <updated>2020-06-05T15:19:43.694Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>秋叶office教程</title>
+    <link href="/posts/36eb.html"/>
+    <id>/posts/36eb.html</id>
+    <published>1990-06-22T15:00:06.000Z</published>
+    <updated>2020-06-05T15:19:43.694Z</updated>
+    
+    <summary type="html">
+    
+      office、word、Excel、PPT
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="office" scheme="/tags/office/"/>
+    
+      <category term="word" scheme="/tags/word/"/>
+    
+      <category term="PPT" scheme="/tags/PPT/"/>
+    
+      <category term="Excel" scheme="/tags/Excel/"/>
+    
+  </entry>
   
   <entry>
     <title>《我是创作人》第二季</title>
